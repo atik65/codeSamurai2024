@@ -50,4 +50,4 @@ To stop the Docker container, press `Ctrl+C` in the terminal.
 
 ## Author
 
-[Your Name]
+Atik
